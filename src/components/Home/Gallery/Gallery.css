@@ -1,0 +1,35 @@
+img{
+    height: 250px;
+    width: 250px;
+    position: relative;
+    padding: 10px;
+}
+.overlay{
+    position: absolute;
+    left: 48px;
+    top: 0;
+    height: 250px;
+    width: 250px;
+    background-color: rgb(37, 37, 35);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: scale(0);
+    transition: all linear .3s;
+}
+.gallery-content:hover .overlay {
+    transform: scale(1);
+    transition: all linear .3s;
+}
+.icon-container{
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+h2{
+    text-align: center;
+    font-size: 45px;
+    font-weight: 700;
+    color: whitesmoke;
+    padding: 50px;
+}

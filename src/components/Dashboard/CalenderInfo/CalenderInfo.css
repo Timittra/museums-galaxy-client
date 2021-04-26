@@ -1,0 +1,6 @@
+.booking-img{
+    width: 90%;
+}
+.booking-img:hover{
+    background-color: darkgoldenrod;
+}

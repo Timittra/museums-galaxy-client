@@ -1,0 +1,39 @@
+/*Big Footer starts*/
+.big-footer {
+    padding: 68px 0 110px;
+    color: #fff;
+}
+.foot-common-head h3 {
+    font-size: 30px;
+    padding-bottom: 24px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+}
+.foot-common-content{
+    z-index: -1;
+}
+.foot-common-content p {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+}
+.foot-main-common {
+    text-align: center;
+}
+.foot-icon ul {
+    float: left;
+    margin-left: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.foot-icon ul li {
+    float: right;
+    width: 40px;
+    height: 40px;
+    border: 2px solid #fff;
+    line-height: 40px;
+    margin-left: 7px;
+    list-style: none;
+}
+/*Big Footer ends*/

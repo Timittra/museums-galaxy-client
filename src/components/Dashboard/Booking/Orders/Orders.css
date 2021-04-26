@@ -1,0 +1,8 @@
+.order-list{
+    background-image:  linear-gradient(to bottom, rgba(30,31, 29, 0.23), rgba(30,31, 29, 0.73)),url('../../../../images/list.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px;
+    color: #F19100;
+}
